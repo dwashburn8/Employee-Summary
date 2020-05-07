@@ -2,7 +2,10 @@
 ![Badge](https://img.shields.io/badge/license-MIT-brightgreen.svg)
 
 # Employee Summary Generator
-                          
+
+## Demo
+https://drive.google.com/file/d/1fviRu5Dw53qmqS3zzseF5ac2b0ESLAgU/view
+
 ## Description
                           
 Project was built using Node.js, HTML5, and Bootstrap
