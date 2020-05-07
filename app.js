@@ -72,7 +72,7 @@ function pickEmployee(answer) {
             })
 
     } else {
-        return fs.writeFile("final.html", render(employeeArr), function (err) {
+        return fs.writeFile("team.html", render(employeeArr), function (err) {
             if (err) { throw err } else {
 
                 console.log("Check your new HTML file!");
