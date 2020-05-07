@@ -22,13 +22,6 @@ To install necassary dependencies, run the following command:
                           
  npm install 
                           
-## Usage
-                          
-Make sure to install the dependencies
-                          
-## Contributing
-                          
-Nothing
                           
 ## Tests 
                           
